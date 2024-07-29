@@ -2,7 +2,7 @@
 
 Update utility for Pulsar. On launch of Pulsar, `pulsar-updater` will check for any new releases available via GitHub APIs. And if one is available will display a notification for the user to be able to install the new version.
 
-If the user seems to have installed Pulsar manually, a link will be opened directly to the resource on GitHub, allowing the user to then download the correct file as needed, and install it. Otherwise if it seems the user has installed Pulsar via various recognized package managers, then Pulsar Updater will present a notification that an update is available, and provide the commands needed to preform the update themselves if they so wish.
+If the user seems to have installed Pulsar manually, a link will be opened directly to the resource on GitHub, allowing the user to then download the correct file as needed, and install it. Otherwise if it seems the user has installed Pulsar via various recognized package managers, then Pulsar Updater will present a notification that an update is available, and provide the commands needed to perform the update themselves if they so wish.
 
 This package is made to be minimally invasive, while still allowing users to be aware of new Pulsar versions without any manual effort.
 
